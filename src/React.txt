@@ -1,0 +1,32 @@
+React Is A Open Source Javascript Libary Its Is a Single page Application .React allows Us To Create 
+Reusable UI Components.React Main Focous Is Building UI Component Is Fast
+
+React Devloped By Facebook And Name Is Jorden Walk.
+
+NPM:-Node package Manager
+NPM Alternative;-yarn
+CDN:-Contain Delivery Network
+
+React Main File Is;Package.json
+
+
+A Component Is A Piece Of Code That Can Reuse Such as Function.But More Than Powerfull Than Function
+
+Component Type:-
+1)Functionl Component
+2)Class Component
+3)Hoc(High Order Function)
+4)Pure Component
+
+Hooks Type:-             
+1)Use State:-const[count,setcount]=usestate()   //setcount Is State Ko Update Kar Ta He
+2)Use Ref:-Dom Manipulating
+3)Use Effect:-
+4)Use Context:-
+5)Use Navigate:-
+6)Use memo;-Use Effect and Usecallback and Use memo are same syntact
+
+
+
+let a="Prajyot';
+const[count,setcount]=usestate("dhanu")
